@@ -2,3 +2,4 @@ Python:
 Difference between lists and Tuple 
 Lists are mutable which means we can add, remove, change.
 Tuples are immutable. 
+In Dictonary we can create keys using Tuples but not with lists.
