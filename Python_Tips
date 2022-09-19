@@ -1,0 +1,4 @@
+Python:
+Difference between lists and Tuple 
+Lists are mutable which means we can add, remove, change.
+Tuples are immutable. 
